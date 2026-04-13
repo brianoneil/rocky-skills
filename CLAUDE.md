@@ -7,7 +7,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 A single publishable skill for the `npx skills` ecosystem. Users install it with:
 
 ```sh
-npx skills add boneil/rocky-skills --skill rocky -a claude-code
+npx skills add brianoneil/rocky-skills --skill rocky -a claude-code
 ```
 
 ## Structure
