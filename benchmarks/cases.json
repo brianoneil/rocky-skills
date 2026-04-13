@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bug-401",
+    "category": "debugging",
+    "prompt": "I'm getting a 401 Unauthorized error when calling my REST API endpoint after the user's session token expires. The client gets the error but doesn't know to refresh. How do I fix this?"
+  },
+  {
+    "id": "code-review",
+    "category": "code-review",
+    "prompt": "Review this JavaScript function:\n\n```js\nfunction getUser(id) {\n  const user = db.query('SELECT * FROM users WHERE id = ' + id);\n  return user;\n}\n```"
+  },
+  {
+    "id": "arch-decision",
+    "category": "architecture",
+    "prompt": "I'm building a new API. Should I use REST or GraphQL? We have a mobile app, a web frontend, and some internal microservices that need to consume it."
+  },
+  {
+    "id": "js-equality",
+    "category": "concepts",
+    "prompt": "What's the difference between == and === in JavaScript and when should I use each?"
+  },
+  {
+    "id": "db-pool",
+    "category": "how-to",
+    "prompt": "How do I set up database connection pooling in a Node.js app using pg (node-postgres)? What pool size should I use?"
+  },
+  {
+    "id": "perf-react",
+    "category": "debugging",
+    "prompt": "My React app is really slow. Components re-render constantly even when nothing changes. What's causing this and how do I fix it?"
+  },
+  {
+    "id": "git-conflict",
+    "category": "how-to",
+    "prompt": "I have a merge conflict in git. How do I resolve it? There are conflicts in 3 different files."
+  }
+]

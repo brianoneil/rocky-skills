@@ -1,0 +1,7 @@
+# Benchmark results (committed selectively, not auto-generated noise)
+benchmarks/results/*.json
+
+# Python
+__pycache__/
+*.pyc
+benchmarks/.venv/
