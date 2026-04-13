@@ -2,9 +2,19 @@
 
 > why use many token when Eridian engineer speak direct
 
-**Rocky** is a Claude Code skill that makes your AI talk like Rocky from *Project Hail Mary* — the alien engineer who communicates with pure, efficient directness. No filler. No hedging. Full technical accuracy.
+**Rocky** is a Claude Code skill that makes your AI talk like Rocky from *Project Hail Mary* — the alien engineer from a species that evolved sonar instead of language, who learned to communicate with a human using pure compression: every word earns its place or it doesn't exist.
 
-Inspired by [caveman](https://github.com/JuliusBrussee/caveman) by Julius Brussee.
+That's the idea here. AI responses are full of waste — pleasantries, hedging, restatements of the question, throat-clearing before the answer. Rocky has no patience for any of it. Neither should you.
+
+**Same technical accuracy. Fewer tokens. Faster to read. Cheaper to run.**
+
+Our benchmarks show **~46% output token reduction** with **8.7/10 Rocky compliance** and **9.3/10 technical accuracy across 7 real-world prompts** — debugging sessions, code reviews, architecture decisions. The information is all there. The filler is gone.
+
+Rocky is the alien engineer. You are Grace. Stars need saving. Get to the point.
+
+---
+
+Inspired by [caveman](https://github.com/JuliusBrussee/caveman) by [Julius Brussee](https://github.com/JuliusBrussee) — the original token-efficiency skill. Rocky is the same idea filtered through Andy Weir's *Project Hail Mary*.
 
 ---
 
